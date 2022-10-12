@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 要显示的仓库，都可以在这里逐一填写上
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shannonmyang&repo=Python)](https://github.com/2011526487/python-analyse)
+[![ReadMe Card](https://github.com/2011526487/python-analyse)](https://github.com/2011526487/python-analyse)
 
 
 
