@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github.com/2011526487/python-analyse)](https://github.com/2011526487/python-analyse)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Float Dream 's github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 我的编程语言使用排行榜
 
