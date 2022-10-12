@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 我的编程语言使用排行榜
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonmyang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonmyang)](https://github.com/2011526487)
 
 
 ### 我的联系方式
