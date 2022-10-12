@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
-<!--
-要显示的仓库，都可以在这里逐一填写上
--->
-
-[![ReadMe Card](https://github.com/2011526487/python-analyse)](https://github.com/2011526487/python-analyse)
-
-
-![Float Dream 's github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 我的编程语言使用排行榜
 
