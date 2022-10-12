@@ -1,3 +1,5 @@
+###访客量            
+<img align='right' src="https://profile-counter.glitch.me/Floating-Dream1001/count.svg" alt="访客数量"/>
 ### Hi there 👋
 
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<img align='right' src="https://profile-counter.glitch.me/Floating-Dream1001/count.svg" alt="访客数量"/>
+
 ### 我的联系方式
 
 > `简书`: [简书](https://www.jianshu.com/u/2fd0c319f098)
