@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ### 我的Github
-ShannonMYang's github stats](https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)
+ShannonMYang's github stats(https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)
 ### 我的代码库(部分)
 
--->
+
 <!--
 要显示的仓库，都可以在这里逐一填写上
 -->
