@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Floating-Dream1001)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+<img align='right' src="https://profile-counter.glitch.me/Floating-Dream1001/count.svg" alt="访客数量"/>
 ### 我的联系方式
 
 > `简书`: [简书](https://www.jianshu.com/u/2fd0c319f098)
