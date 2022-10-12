@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floating-Dream1001&show_icons=true&theme=radical)
 ### 我的编程语言使用排行榜
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Floating-Dream1001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 
 > `简书`: [简书](https://www.jianshu.com/u/2fd0c319f098)
 > `个人博客`: [个人博客]()
+![github contribution grid snake animation](https://github.com/JS-banana/JS-banana/blob/output/github-contribution-grid-snake.svg)
