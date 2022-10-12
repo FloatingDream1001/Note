@@ -26,10 +26,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Floating-Dream1001&show_icons=true&theme=radical)
 ### 我的编程语言使用排行榜
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-  Floating-Dream1001&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+
 
 <div align="center">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Floating-Dream1001" />
