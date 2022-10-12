@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### 我的Github
-[![Float dream github stats](https://github-readme-stats.vercel.app/api?username=shannonmyang&show_icons=true&theme=dracula&local=cn)]
-
-### 我的代码库(部分)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shannonmyang&repo=CDemo)](https://github.com/2011526487/python-analyse)
-
 <!--
 要显示的仓库，都可以在这里逐一填写上
 -->
@@ -39,11 +33,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github.com/2011526487/python-analyse)](https://github.com/2011526487/python-analyse)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 我的编程语言使用排行榜
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannonmyang)](https://github.com/anuraghazra/github-readme-stats)
 
