@@ -28,9 +28,7 @@
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=FloatingDream1001" />
 </div>
 
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=FloatingDream1001&theme=xcode" />
-</div>
+
 
 
 
@@ -38,6 +36,5 @@
 
 ### 我的联系方式
 
-> `简书`: [简书](https://www.jianshu.com/u/2fd0c319f098)
-> `个人博客`: [个人博客]()
-
+> `个人博客`: [个人博客](https://www.yangyuezz.top)
+> `CSDN`: [CSDN](https://blog.csdn.net/m0_54228816?type=blog)
